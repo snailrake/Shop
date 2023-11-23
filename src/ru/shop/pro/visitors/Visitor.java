@@ -19,6 +19,6 @@ public class Visitor {
     }
 
     public void refund(String product) {
-        this.products.remove(product);
+        this.products.remove(product); //gegwg
     }
 }
