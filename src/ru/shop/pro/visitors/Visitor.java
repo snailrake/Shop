@@ -18,7 +18,7 @@ public class Visitor {
         this.products.add(product);
     }
 
-    public void refund(String product) {
+    public void refund(String product) { //ftghrfthj
         this.products.remove(product); //gegwg
     }
 }
