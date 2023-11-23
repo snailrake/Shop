@@ -32,3 +32,7 @@ O
 src/ru/shop/pro/Department.java,3\4\34d60f9d46631c7dc91f37a36e54880b60595285
 P
  src/ru/shop/pro/TradingRoom.java,d\7\d75db8e8d6d971a964f3871320d22e9e90703bc8
+X
+(src/ru/shop/pro/interfaces/IVisitor.java,c\5\c5b437a45b61b0cb9bcc39034fe117779f476979
+I
+src/ru/shop/pro/Main.java,5\5\55c14efa12d103d856c90acec83149e24ed85aa6

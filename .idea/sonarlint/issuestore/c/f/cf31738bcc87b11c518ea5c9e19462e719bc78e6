@@ -1,5 +1,5 @@
 
-…
-java:S1319"hThe type of "products" should be an interface such as "List" rather than the implementation "ArrayList".(ªîÛ³8øšğÀ¿1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áøúşÿÿÿÿ8‹Íá¿1
 E
-java:S1068"(Remove this unused "name" private field.(Ë¥¼8‰›ğÀ¿1
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8ñÜºà¿1

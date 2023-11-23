@@ -1,8 +1,10 @@
 package ru.shop.pro.visitors;
 
+import ru.shop.pro.interfaces.IVisitor;
+
 import java.util.ArrayList;
 
-public class Visitor {
+public class Visitor implements IVisitor {
     private String name;
     protected ArrayList<String> products = new ArrayList<>();
 
@@ -14,11 +16,11 @@ public class Visitor {
         this.products = products;
     }
 
-    public void buyProduct(String product) {
-        this.products.add(product);
+    public void buyProduct() {
+
     }
 
-    public void refund(String product) { //ftghrfthj
-        this.products.remove(product); //gegwg
+    public void refundProduct() { //ftghrfthj
+
     }
 }
